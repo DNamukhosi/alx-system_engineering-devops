@@ -10,5 +10,5 @@
 + 10.script that lists all files 
 + 11.script that prints the type of the file
 + 12.script that moves all files beginning with an uppercase letter 
-+ 13.cript that deletes all files in the current working directory that end with the character ~
-
++ 13.script that deletes all files in the current working directory that end with the character ~
++ 14.script that creates the directories
