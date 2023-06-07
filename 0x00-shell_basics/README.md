@@ -9,3 +9,4 @@
 + 9.Delete the directory my_first_directory that is in the /tmp directory
 + 10.script that lists all files 
 + 11.script that prints the type of the file
++ 12.script that moves all files beginning with an uppercase letter 
